@@ -1,0 +1,5 @@
+#nightk {
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(red, yellow);
+    background-attachment: fixed;
+  }
